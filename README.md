@@ -1,2 +1,6 @@
 # grocery_store
-It is a 3 tier grocery store management application. 
+It is a grocery store management application. It will be 3 tier application
+
+Front end: UI is written in HTML/CSS/Javascript/Bootstrap
+Backend: Python and Flask
+Database: mysql 
